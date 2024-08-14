@@ -1,0 +1,4 @@
+cifar-10-batches-py/
+best.pth
+__pycache__/
+*.pyc
